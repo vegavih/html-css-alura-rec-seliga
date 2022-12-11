@@ -16,7 +16,9 @@
 
         <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
-    </body>
+    </body>.titulo-principal {
+    padding-left: 20px;
+}
 </html>
 body {
     background: #CCCCCC
@@ -56,6 +58,9 @@ body {
 .beneficios {
     background: #FFFFFF;
     padding: 20px;
+}
+.titulo-centralizado {
+    text-align: center
 }
 
 h2 {
